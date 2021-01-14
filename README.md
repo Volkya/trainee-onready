@@ -35,3 +35,8 @@ La solución debe cumplir con los siguientes requisitos:
 
 
 Cualquier consulta no duden en preguntar a busquedas@onready.com.ar
+
+# Correr ejercicio
+
+- luego de tener instalado node en su equipo
+- navegar a la carpeta del proyecto y escribir en la terminal `node index.js`
